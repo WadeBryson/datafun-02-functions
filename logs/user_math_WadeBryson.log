@@ -1,0 +1,23 @@
+2023-05-17 18:27:26,905 =============================================================
+2023-05-17 18:27:26,905 =============================================================
+2023-05-17 18:27:26,905 Today is 2023-05-17 at 06:27 PM
+2023-05-17 18:27:27,010 This file is running on: nt Windows 10
+2023-05-17 18:27:27,010 The Python version is: 3.11.3
+2023-05-17 18:27:27,010 The active conda environment is:  None
+2023-05-17 18:27:27,010 The active pip environment is:    None
+2023-05-17 18:27:27,010 The active environment path is:   C:\Users\WadeBryson\AppData\Local\Programs\Python\Python311
+2023-05-17 18:27:27,010 The current working directory is: C:\Users\WadeBryson\Documents\datafun-02-functions
+2023-05-17 18:27:27,010 This source file is in:           c:\Users\WadeBryson\Documents\datafun-02-functions
+2023-05-17 18:27:27,010 =============================================================
+2023-05-17 18:27:27,010 =============================================================
+2023-05-17 18:27:27,010 The point differential for your game is 43
+2023-05-17 18:27:27,010 The point differential for your game is -34
+2023-05-17 18:27:27,010 The point differential for your game is 0
+2023-05-17 18:27:27,010 The total number of combinations for your starting lineup is 252
+2023-05-17 18:27:27,010 The total number of combinations for your starting lineup is 15504
+2023-05-17 18:27:27,010 The total number of combinations for your starting lineup is 1
+2023-05-17 18:27:27,010 The total number of points scored for your team was 59
+2023-05-17 18:27:27,010 The total number of points scored for your team was 178
+2023-05-17 18:27:27,010 Explore some functions in the math module
+2023-05-17 18:27:27,010 math.comb(5,1) = 5
+2023-05-17 18:27:27,010 math.perm(5,1) = 5

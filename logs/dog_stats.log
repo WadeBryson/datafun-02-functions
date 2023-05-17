@@ -1,0 +1,23 @@
+2023-05-14 14:37:54,987 =============================================================
+2023-05-14 14:37:54,987 =============================================================
+2023-05-14 14:37:54,987 Today is 2023-05-14 at 02:37 PM
+2023-05-14 14:37:55,087 This file is running on: nt Windows 10
+2023-05-14 14:37:55,087 The Python version is: 3.11.3
+2023-05-14 14:37:55,087 The active conda environment is:  None
+2023-05-14 14:37:55,087 The active pip environment is:    None
+2023-05-14 14:37:55,087 The active environment path is:   C:\Users\WadeBryson\AppData\Local\Programs\Python\Python311
+2023-05-14 14:37:55,087 The current working directory is: C:\Users\WadeBryson\Documents\datafun-02-functions
+2023-05-14 14:37:55,110 This source file is in:           c:\Users\WadeBryson\Documents\datafun-02-functions
+2023-05-14 14:37:55,110 =============================================================
+2023-05-14 14:37:55,110 =============================================================
+2023-05-14 14:38:04,351 temp_1 = 15.0
+2023-05-14 14:38:04,352 temp_2 = 25.0
+2023-05-14 14:38:04,352 temp_3 = 30.0
+2023-05-14 14:38:04,352 The sum is 70.0.
+2023-05-14 14:38:04,352 The average is 23.33.
+2023-05-14 14:38:04,352 The product is 11250.0.
+2023-05-14 14:38:04,352 The smallest is 15.0.
+2023-05-14 14:38:04,352 The largest is 30.0.
+2023-05-14 14:38:04,352 The range is 15.0.
+2023-05-14 14:38:04,352 It's above freezing at the Doggy Daycare!
+2023-05-14 14:38:07,008 Script complete. See log file for details.

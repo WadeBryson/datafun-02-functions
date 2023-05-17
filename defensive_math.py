@@ -121,5 +121,6 @@ if __name__ == "__main__":
     get_circle_areas_given_list(bad_list)
 
     print("Done. Please check the log file for more details.")
+    
 
 

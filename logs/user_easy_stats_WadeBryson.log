@@ -1,0 +1,40 @@
+2023-05-17 18:47:01,754 =============================================================
+2023-05-17 18:47:01,754 =============================================================
+2023-05-17 18:47:01,754 Today is 2023-05-17 at 06:47 PM
+2023-05-17 18:47:02,092 This file is running on: nt Windows 10
+2023-05-17 18:47:02,092 The Python version is: 3.11.3
+2023-05-17 18:47:02,092 The active conda environment is:  None
+2023-05-17 18:47:02,093 The active pip environment is:    None
+2023-05-17 18:47:02,093 The active environment path is:   C:\Users\WadeBryson\AppData\Local\Programs\Python\Python311
+2023-05-17 18:47:02,093 The current working directory is: C:\Users\WadeBryson\Documents\datafun-02-functions
+2023-05-17 18:47:02,093 This source file is in:           c:\Users\WadeBryson\Documents\datafun-02-functions
+2023-05-17 18:47:02,093 =============================================================
+2023-05-17 18:47:02,093 =============================================================
+2023-05-17 18:47:02,093 season_points_scored = [40, 42, 50, 38, 64, 83, 46, 99, 47, 47, 63, 62, 101, 49, 51, 58, 70, 47, 80, 71, 39, 51, 37, 47, 71, 73, 65, 91, 88]
+2023-05-17 18:47:02,118 mean   = 61.03
+2023-05-17 18:47:02,118 median = 58.00
+2023-05-17 18:47:02,118 mode   = 47.00
+2023-05-17 18:47:02,118 var    = 351.68
+2023-05-17 18:47:02,118 stdev  = 18.75
+2023-05-17 18:47:02,118 lowest = 37.00
+2023-05-17 18:47:02,118 highest= 101.00
+2023-05-17 18:47:02,118 Correlation requires Python version 3.10 or greater.
+2023-05-17 18:47:02,118 Your version is 3.11
+2023-05-17 18:47:02,118 Here's some time series data:
+2023-05-17 18:47:02,118 xtimes:[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+2023-05-17 18:47:02,118 yvalues:[0, 15, 22, 34, 45, 46, 50, 59, 69, 71, 90]
+2023-05-17 18:47:02,118 correlation between xtimes and xtimes = 1.00
+2023-05-17 18:47:02,118 correlation between xtimes and yvalues = 0.99
+2023-05-17 18:47:02,118 Here's some bivariant data (2 variables, together):
+2023-05-17 18:47:02,118 x:[4, 0, 6, 2, 10, 8, 5, 1]
+2023-05-17 18:47:02,118 y:[40, 28, 54, 36, 72, 61, 48, 30]
+2023-05-17 18:47:02,118 Calculate the slope and intercept of a best fit straight line:
+2023-05-17 18:47:02,118    slope = 4.45
+2023-05-17 18:47:02,118    intercept = 26.12
+2023-05-17 18:47:02,118 Let's use our best fit line to PREDICT a future value.
+2023-05-17 18:47:02,118    At future x = 200,
+2023-05-17 18:47:02,118    we predict the value of y will be 915.
+2023-05-17 18:47:02,123 How'd we do? Does this make sense given the data?
+2023-05-17 18:47:02,123 Remember to close the app. Control c (or d or z maybe) to close it.
+2023-05-17 18:47:02,123 ready_for_chart = True
+2023-05-17 18:47:43,831 Done with the chart.

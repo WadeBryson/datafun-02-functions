@@ -1,0 +1,26 @@
+2023-05-17 19:21:04,188 =============================================================
+2023-05-17 19:21:04,188 =============================================================
+2023-05-17 19:21:04,188 Today is 2023-05-17 at 07:21 PM
+2023-05-17 19:21:04,304 This file is running on: nt Windows 10
+2023-05-17 19:21:04,305 The Python version is: 3.11.3
+2023-05-17 19:21:04,305 The active conda environment is:  None
+2023-05-17 19:21:04,305 The active pip environment is:    None
+2023-05-17 19:21:04,305 The active environment path is:   C:\Users\WadeBryson\AppData\Local\Programs\Python\Python311
+2023-05-17 19:21:04,413 The current working directory is: C:\Users\WadeBryson\Documents\datafun-02-functions
+2023-05-17 19:21:04,413 This source file is in:           c:\Users\WadeBryson\Documents\datafun-02-functions
+2023-05-17 19:21:04,413 =============================================================
+2023-05-17 19:21:04,413 =============================================================
+2023-05-17 19:21:04,413 Created: NumericSeries with name=LeBron James, units=points, and 5 data points: [24, 28, 42, 24, 33]
+2023-05-17 19:21:04,413 Created: NumericSeries with name=Kyrie Irving, units=points, and 5 data points: [14, 28, 17, 21, 35]
+2023-05-17 19:21:04,413 NumericSeries with name=LeBron James, units=points, and 5 data points: [24, 28, 42, 24, 33]
+2023-05-17 19:21:04,413 Count: 5
+2023-05-17 19:21:04,413 Total Points Scored: 151
+2023-05-17 19:21:04,413 Average Points Per Game: 30.2
+2023-05-17 19:21:04,413 Median: 28
+2023-05-17 19:21:04,413 ------------------
+2023-05-17 19:21:04,424 NumericSeries with name=Kyrie Irving, units=points, and 5 data points: [14, 28, 17, 21, 35]
+2023-05-17 19:21:04,424 Count: 5
+2023-05-17 19:21:04,424 Total Points Scored: 115
+2023-05-17 19:21:04,424 Average Points Per Game: 23.0
+2023-05-17 19:21:04,424 Median: 21
+2023-05-17 19:21:04,424 ------------------
